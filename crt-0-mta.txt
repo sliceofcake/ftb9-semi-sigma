@@ -1,1 +1,1 @@
-{"title":"Title","origin":"Origin"}
+{"title":"Title","origin":"Origin","icon":"./crt-0-ico_tester-0.png"}
