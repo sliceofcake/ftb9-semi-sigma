@@ -1,1 +1,1 @@
-{"title":"Title","origin":"Origin","icon":"./crt-0-ico_tester-0.png"}
+{"title":"Title","origin":"Origin","icon":"./crt-0-ico_tester-0.png","chart":"./crt-0-nte_tester-0.txt"}
