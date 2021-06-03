@@ -1,1 +1,1 @@
-{"title":"Title","origin":"Origin","icon":"./crt-0-ico_tester-0.png","chart":"./crt-0-nte_tester-0.txt","audio":"./crt-0-aud_tester-0.m4a"}
+{"title":"Title","origin":"Origin","icon":"./crt-0-ico_tester-0.png","chart":"./crt-0-nte_tester-0.txt"}
