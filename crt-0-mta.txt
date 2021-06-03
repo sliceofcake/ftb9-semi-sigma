@@ -1,1 +1,1 @@
-{"title":"Title","chart":"./crt-0-nte_tester-0.txt"}
+{"title":"Title","chart":"./crt-0-nte_tester-0.txt","icon":"./crt-0-ico_tester-0.m4a"}
