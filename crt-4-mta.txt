@@ -1,1 +1,1 @@
-{"title":"ポケモン交響曲「THE MEDLEY OF POKéMON RGBY+GSC」 (Part 1)","origin":"hapi","chart":"./crt-4-nte_738_hard.txt","audio":"./crt-4-aud_738_mus.mp3.inv","icon":"./crt-4-ico_738_pic.jpg"}
+{"title":"ポケモン交響曲「THE MEDLEY OF POKéMON RGBY+GSC」 (Part 1)","origin":"hapi","chart":"./crt-4-nte_738_hard.txt","audio":"./crt-4-aud_738_mus.mp3.inv","icon":"./crt-4-ico_738_pic.jpg","audio-decode-function":"reverse"}
