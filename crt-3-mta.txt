@@ -1,1 +1,1 @@
-{"title":"Super Mario Bros. Can Can","origin":"MatrixMariox","chart":"./crt-3-nte_737_hard.txt","icon":"./crt-3-ico_737_pic.jpg"}
+{"title":"Super Mario Bros. Can Can","origin":"MatrixMariox","chart":"./crt-3-nte_737_hard.txt","icon":"./crt-3-ico_737_pic.jpg","audio":"./crt-3-aud_737_mus.mp3.inv"}
