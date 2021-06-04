@@ -1,1 +1,1 @@
-{"title":"Madoka Pianoforte (excerpt)","origin":"tomoya1060moon","chart":"./crt-2-nte_98_hard.txt","audio":"./crt-2-aud_98_mus.mp3.inv"}
+{"title":"Madoka Pianoforte (excerpt)","origin":"tomoya1060moon","chart":"./crt-2-nte_98_hard.txt","audio":"./crt-2-aud_98_mus.mp3.inv","icon":"./crt-2-ico_98_pic.jpg"}
