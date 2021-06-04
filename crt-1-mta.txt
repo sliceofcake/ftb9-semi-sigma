@@ -1,1 +1,1 @@
-{"title":"Working... please wait... (orchestral)","origin":"kamome_sano (NND)"}
+{"title":"Working... please wait... (orchestral)","origin":"kamome_sano (NND)","icon":"./crt-1-ico_1_pic.jpg"}
