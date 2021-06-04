@@ -1,1 +1,1 @@
-{"title":"Super Mario Bros. Can Can","origin":"MatrixMariox"}
+{"title":"Super Mario Bros. Can Can","origin":"MatrixMariox","chart":"./crt-3-nte_737_hard.txt"}
