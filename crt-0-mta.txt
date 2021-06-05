@@ -1,1 +1,1 @@
-{"title":"Test Chart 0","chart":"./crt-0-nte_tester-0.txt","icon":"./crt-0-ico_tester-0.png","audio":"./crt-0-aud_tester-0.m4a","origin":"FtB Test Chart Collection"}
+{"title":"Test Chart 0","chart":"./crt-0-nte_tester-0.txt","icon":"./crt-0-ico_tester-0.png","audio":"./crt-0-aud_tester-0.m4a","origin":"FtB Test Chart Collection","information":"A test chart."}
