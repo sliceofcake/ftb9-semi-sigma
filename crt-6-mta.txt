@@ -1,1 +1,1 @@
-{"title":"S.S. Aqua"}
+{"title":"S.S. Aqua","origin":"Pokémon Gen II"}
