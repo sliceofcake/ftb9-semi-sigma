@@ -1,1 +1,1 @@
-{"title":"S.S. Aqua","origin":"Pokémon Gen II","audio":"./crt-6-aud_aud.m4a.inv","chart":"./crt-6-nte_nte.txt"}
+{"title":"S.S. Aqua","origin":"Pokémon Gen II","audio":"./crt-6-aud_aud.m4a.inv","chart":"./crt-6-nte_nte.txt","audio-decode-function":"reverse"}
