@@ -1,1 +1,1 @@
-{"title":"Champion Cynthia","origin":"Pokémon Gen IV (Arrange)","icon":"./crt-7-ico_pkm4-shrn.jpg"}
+{"title":"Champion Cynthia","origin":"Pokémon Gen IV (Arrange)","icon":"./crt-7-ico_pkm4-shrn.jpg","chart":"./crt-7-nte_pkm4-shrn.txt"}
