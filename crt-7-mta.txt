@@ -1,1 +1,1 @@
-{"title":"Champion Cynthia"}
+{"title":"Champion Cynthia","origin":"Pokémon Gen IV (Arrange)"}
