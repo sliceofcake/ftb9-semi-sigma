@@ -1,1 +1,1 @@
-{"title":"Working... please wait... (orchestral)","origin":"kamome_sano (NND)","icon":"./crt-1-ico_1_pic.jpg","chart":"./crt-1-nte_1_medium.txt","audio":"./crt-1-aud_1_mus.mp3.inv","audio-decode-function":"reverse"}
+{"title":"Working... please wait... (orchestral)","origin":"kamome_sano (NND)","icon":"./crt-1-ico_1_pic.jpg","chart":"./crt-1-nte_1_medium.txt","audio":"./crt-1-aud_1_mus.mp3.inv","audio-decode-function":"reverse","charter":"raw.githubusercontent.com/sliceofcake/ftb9-semi-sigma/main/user.txt"}
