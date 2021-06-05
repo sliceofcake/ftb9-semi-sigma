@@ -1,1 +1,1 @@
-{"title":"seal.mp4","origin":"joeyclassic","audio":"./crt-5-aud_seal_mus.mp3.inv","icon":"./crt-5-ico_seal_pic.jpg"}
+{"title":"seal.mp4","origin":"joeyclassic","audio":"./crt-5-aud_seal_mus.mp3.inv","icon":"./crt-5-ico_seal_pic.jpg","chart":"./crt-5-nte_seal_Easy.txt"}
